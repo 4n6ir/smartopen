@@ -45,7 +45,7 @@ class SmartopenStack(Stack):
                 _lambda.Runtime.PYTHON_3_11,
                 _lambda.Runtime.PYTHON_3_12
             ],
-            description = 'smart_open 6.4.0 (https://github.com/piskvorky/smart_open)',
+            description = 'smart_open 7.0.1 (https://github.com/piskvorky/smart_open)',
             layer_version_name = 'smartopen',
             license = 'MIT License',
             removal_policy = RemovalPolicy.DESTROY
